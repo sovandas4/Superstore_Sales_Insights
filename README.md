@@ -3,6 +3,9 @@
 ## Description
 This project visualizes a dataset obtained from the Tableau website using Looker Studio. The dataset, albeit not cleaned, was utilized exclusively for visualization purposes to analyze sales trends, segment analysis, and shipping preferences in a superstore.
 
+## Dashboard Link:
+https://lookerstudio.google.com/reporting/752642b9-6dc0-409e-9cdb-a484d184ef2b/page/Cb5uD
+
 ## Key Visualizations and Insights
 
 ### Scorecard Sales
